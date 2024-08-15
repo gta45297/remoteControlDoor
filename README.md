@@ -13,3 +13,6 @@ APP遠端開關鐵門系統
 ## 缺:  
 1. arduino(WEMOS)、inventor平台限制，沒有SSH防護，需透過額外防火牆防護  
 2. 老家只有社區鐵門，鐵門可能被其他住戶開關，無法詳測繼電器(按遙控器用)穩定度  
+
+展示：(點圖連結至 youtube)
+[![](http://img.youtube.com/vi/gya_GN6BKiQ/0.jpg)](https://youtu.be/gIGYrbLZmgw "")
